@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://herijaya.github.io/linkq/sitemap-index.xml
+Sitemap: https://herijaya.github.io/link/sitemap-index.xml
