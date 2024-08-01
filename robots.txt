@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://herijaya.github.io/linkq/sitemap-index.xml
